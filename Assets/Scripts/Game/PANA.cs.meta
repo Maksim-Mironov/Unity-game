@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: e4735484b29614f40ad5e6071d0279d1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - panaClose: {fileID: 21300000, guid: d6f73c20533760a4980786105d36851e, type: 3}
+  - panaOpen: {fileID: 21300000, guid: 15045d76bff4a484483c840a9103ab80, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

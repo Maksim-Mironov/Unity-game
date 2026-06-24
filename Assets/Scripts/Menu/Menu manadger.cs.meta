@@ -1,0 +1,35 @@
+fileFormatVersion: 2
+guid: acfa941631a96a94a8e5c9dc73b798aa
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Menu: {instanceID: 0}
+  - SettingsMenu: {instanceID: 0}
+  - Settings: {instanceID: 0}
+  - Load: {instanceID: 0}
+  - Save: {instanceID: 0}
+  - Stati: {instanceID: 0}
+  - DialogWindow: {instanceID: 0}
+  - PlayMusicButton: {instanceID: 0}
+  - StopMusicButton: {instanceID: 0}
+  - MusicPlayer: {instanceID: 0}
+  - BGM: {instanceID: 0}
+  - Sounds: {instanceID: 0}
+  - ARoseInAFieldMusic: {fileID: 8300000, guid: 86d96da7520b96b478e5aca0261fe5fd, type: 3}
+  - RadianLockMusic: {fileID: 8300000, guid: 94af5a9e6f8fb2c428d8bff7baa99092, type: 3}
+  - SevconMusic: {fileID: 8300000, guid: 0324eea0d671eb944b0b6af5b3f2aa3a, type: 3}
+  - TheEchoMusic: {fileID: 8300000, guid: 5dce0e905fed74644926c2dbff1aa986, type: 3}
+  - TheArtOfWarMusic: {fileID: 8300000, guid: c86a706b0a8141148a7525af1bfe3511, type: 3}
+  - ClickSound: {fileID: 8300000, guid: 64b90846d4080d647a5b11f8b74c9b24, type: 3}
+  - LoadSound: {fileID: 8300000, guid: 1483c76a62150b84f8477e13fc89c018, type: 3}
+  - PointerEnterSound: {fileID: 8300000, guid: 8b53e627c2f9bdc4c91981629fd14dfa, type: 3}
+  - SaveSound: {fileID: 8300000, guid: d13be56a09989b0439190751ba63319e, type: 3}
+  - TVScrene: {instanceID: 0}
+  - TV: {instanceID: 0}
+  - TVOn: {fileID: 32900000, guid: 6d89f055f68bfaa4b9ef2eebeccac72c, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
